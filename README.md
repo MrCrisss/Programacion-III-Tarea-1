@@ -27,6 +27,6 @@ A pesar que su complejidad teorica es similar a la lista ordena , puede llegar a
 puede llevar a degradarse haciendo un caos.
 
 ---------------------------------------------------------------------------------------------------
-La estructura mas eficiente fue la tabla hash ya que su metodo es marapido ya que no cambia el tiempo aunque hayan mas y mas datos 
-su tiempo siempre tarda lo mismo , pero ojo este fue el mas eficacas ya que lo que se estaba haciendo era una busqueda de datos y este 
+La estructura mas eficiente fue la tabla hash ya que su metodo es mas rapido, ya que no cambia el tiempo aunque hayan mas y mas datos. 
+su tiempo siempre tarda lo mismo , pero ojo este fue el mas eficaz ya que lo que se estaba haciendo era una busqueda de datos y este 
 al hacelo por posicion fue una manera mas rapida de respuesta.
