@@ -7,11 +7,11 @@ Arbol Binario: 0.0054 ms
 -------------------------------------------------------------------------------------------
 Estructura de datos | Tiempo Promedio (ms) | Memoria Aproximada Usada | Complejidad Teorica
 
-Lista ordenada             0.0029 ms                 Media                    O(log n)
+Lista ordenada      |       0.0029 ms      |           Media          |          O(log n)
 
-Tabla Hash (set)           0.0003 ms                 Alta                     O(1)
+Tabla Hash (set)    |      0.0003 ms       |          Alta            |         O(1)
 
-Arbol Binario              0.0054 ms                 Alta                     O(log n)
+Arbol Binario       |       0.0054 ms       |          Alta             |        O(log n)
 
 -----------------------------------------------------------------------------------------------
 
